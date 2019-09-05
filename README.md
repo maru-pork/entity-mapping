@@ -31,3 +31,6 @@ JpaRepository extends PagingAndSortingRepository
   CREATE DATABASE one_to_many;
   CREATE DATABASE many_to_many;
 ```
+
+## Extra
+- https://spring.io/guides/gs/testing-web/
